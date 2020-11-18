@@ -1,0 +1,114 @@
+Con đường 1
+ Giai đoạn 1.0: Top 32 năm 2021
+ 1.0.1: Luyện tập các thuật toán & nâng cao khả năng code.
+	a. Mục tiêu:  
+	- Full đề đội tuyển ít nhất 3 ngày trong tuần
+	- Code thành thạo các thuật toán đã biết trong tối đa 10p
+	b. Thời hạn: 
+	21 - 11 năm 2020 (Còn 14 ngày) Liệu có làm được không? Phải thử mới biết.
+	c. Thông tin về thời gian, lịch trình, yêu cầu (thông tin cơ bản)
+	- Muốn code được nhanh một bài cần: 
+		+ nắm chắc cách code, ko thiếu corner case, không sót chi tiết
+		+ Nếu có bug thì debug nhanh được
+	- Có đến 50 thuật toán, trong đó có nhiều thuật toán chưa hiểu rõ bản chất.
+	- Thời lượng cho phép để code là
+		- Ngày trong tuần: sáng 5h - 7h, tối 5h30 - 7h, 8h - 9h. Từ 8h - 11h30 và 12h30 đến 4h: code các bài trên lớp.  Đi, về: 7h30 - 8h, 5h - 5h30
+			Tổng thời gian không học trên lớp là 4,5 tiếng. Tổng trong hai tuần: 45 tiếng.
+		- Thứ 7: 5h - 7h sáng, 8h - 11h30 sáng, 12h30 - 7h, 8h - 9h.
+		- Chủ nhật: 5h - 7h sáng, 8h - 11h30 sáng, 12h30 - 4h30, 8h - 9h. 
+			Tổng 10,5 tiếng. Tổng trong hai tuần: 21 tiếng.
+		(Sáng 20 / 11 về thăm trường)
+	- Khả năng cao không thể full được các bài được giao, vì vậy cần thời gian để làm nốt.
+	- Mỗi thuật toán cần code ít nhất 4 bài, 5 6 bài càng tốt.
+	- Trong 61 tiếng hiểu hết 50 thuật toán, code ít nhất 200 bài. Nếu trung bình mỗi bài 15 p thì cần 50 tiếng. Nghe khá khó. 
+	- Thế còn 20p thì sao? 67 tiếng. Lấy đâu ra mà bù vào bh ? Không lẽ lại nghỉ bóng rổ ? ko. Ko thì hạ thời gian chơi ở trường xuống vậy. 
+	Chưa kể thời gian hiểu các thuật toán kia nữa. 4h đến 4h45 thôi. Về đến nhà, sửa sang các thứ khoảng 5h30. 
+	- Giờ thì có 66 tiếng rồi. Để ngồi đọc hiểu mấy thuật toán này thì chắc cần thêm khoảng 10 tiếng 
+	- Tận dụng thời gian đi và về mỗi ngày ( khoảng 1 tiếng ) ngồi đọc các kiến thức chưa hiểu. là có thêm 10 tiếng rồi. Hi vọng là đủ.
+	=> Như vậy là xong bài ở nhà. Còn bài trên lớp? Thường là 3h một buổi, mà 1 buổi có 3 h 30 phút. 
+	- Làm giống như khi đi thi: Đọc qua đề tất cả các bài, chọn bài dễ nhất. Cần khoảng 30p nghĩ sơ qua về tất cả các bài, kiểm tra lại trước khi nộp 15p (kiểm tra 
+	xem code có bị sửa không, code tràn số không, giới hạn mảng, freopen).
+	=> Còn 2h15 phút. Như vậy trung bình 45p một bài, cả nghĩ và code, debug và test. Nghĩ chi tiết 10p, nghĩ cách code cụ thể 5p,  implement 15p, 
+	sinh test, debug 15p là tối ưu. 
+	- Nghe khá giống kế  hoạch trong mơ. Tuy nhiên thì việc code full cả 3 bài gần như là bất khả thi, chưa kể đến việc khả năng sai không thấp nữa. 
+	- Như vậy chiến thuật tối ưu là như sau: full bài dễ nhất, cắn sub bài khó nhất. Đối với bài dễ nhì thì: Nếu code full được nhanh, code full, sinh test cẩn thận
+	 và thêm phần cắn sub để đề phòng. Nếu không, cắn sub trước, sau đó kiểm tra lại cả 3 phần cẩn thận rồi thì mới thì mới ngồi code full. 
+	Thế nhưng điều kiện tiên quyết là cắn sub phải cực nhanh (nghĩ trong 10p, implement trong 15p). Ngồi luyện thôi.
+	Sau đó t7 ngồi code các bài không full.
+	d. Kế hoạch: 
+	d.1: khung thời gian: 
+	- Ngày trong tuần: 
+		+ Sáng 5h - 7h, tối 5h30 - 7h, 8h - 9h: Code các thuật toán, mỗi thuật ít nhất 4 bài. 
+		+ 8h - 11h30 và 12h30 đến 4h chiều: code trên lớp.
+		+ Đi, về: 7h30 - 8h, 5h - 5h30: Ngồi học các cái chưa hiểu.
+	- Thứ 7: 
+		+ 5h - 7h sáng, 8h - 11h30 sáng, 12h30 - 7h tối: Ngồi code full các bài chưa full trong tuần.
+		+ 8h - 9h: Lên kế hoạch cụ thể cho tuần sau.
+	- Chủ nhật: 5h - 7h sáng, 8h - 11h30 sáng, 12h30 - 4h30, 8h - 9h: Code các thuật toán.
+	d.2: Kế hoạch chi tiết:
+	- Ngày trong tuần: 
+		+ 4h40: Dậy, bật máy, sau đó đi đánh răng rửa mặt, bật nước nóng.
+		+ 5h - 6h45: Code.
+		+ 6h5 -7h05 tắm, lấy tất, cặp xuống.
+		+ 7h05 - 7h20: Ăn, lấy hộp cơm, lấy bóng, đi giày, xuất phát.
+		+ 7h20 - 8h: Vừa đi vừa đọc kiến  thức.
+		+ 8h - 11h30: Bật máy, code.
+		+ 11h30 - 12h: Đi ăn.
+		+ 12h - 12h30: nằm ngủ.
+		+ 12h30 - 4h: code.
+		+ 4h - 4h45: Đóng máy,  lấy áo, lấy điện thoại, lấy bóng xuống chơi.
+		+ 4h45 - 5h30: Vừa đi vừa đọc kiến thức. 
+		+ 5h30 - 5h45: Về nhà, cất bóng, cất giày, bật máy, thay quần áo, sạc điện thoại.
+		+ 5h45 - 7h15: Code.
+		+ 7h15 - 8h: ăn.
+		+ 8h - 9h: Code.
+		+ 9h - 9h15: Tắt máy, đánh răng, mắc màn, chuẩn bị cặp.
+	- Thứ 7: 
+		+ 4h40: Dậy, bật máy, sau đó đi đánh răng rửa mặt, bật nước nóng.
+		+ 5h - 7h: Code.
+		+ 7h - 7h15: tắm. 
+		+ 7h15 - 8h: ăn.
+		+ 8h - 11h30: code.
+		+ 11h30 - 12h: ăn.
+		+ 12h - 12h30: Ngủ.
+		+ 12h30 - 7h15: Code.
+		+ 7h15 - 8h: Ăn.
+		+ 8h - 9h: Lên kế hoạch chi tiết.
+	- Chủ nhật: 
+		+ Dậy: 4h40. Bật máy, sau đó đi đánh răng rửa mặt, bật nước nóng.
+		+ Code 5h - 7h.
+		+ 7h - 7h15: tắm. 
+		+ 7h15 - 8h: ăn.
+		+ 8h - 11h30: code.
+		+ 11h30 - 12h: ăn.
+		+ 12h - 12h30: Ngủ.
+		+ 12h30 - 4h30: Code.
+		+ 4h30 - 7h30 : Bro
+		+ 8h - 9h: Code.
+		+ 9h - 9h15: Tắt máy, đánh răng, mắc màn, chuẩn bị cặp.
+	- Chi tiết thực hiện: 
+		+ Đánh dấu các phần đã code.
+		+ Lập danh sách các bài không full trên lớp. 
+		+ Kiến thức nào đã học xong thì ghi lại cách hiểu vào folder Về phương pháp suy nghĩ.
+	 	+ Giữa các khoảng code uống hai cốc nước.
+1.0.12: Nắm bắt mấu chốt của việc phân nhóm dựa vào đặc tính theo từng góc nhìn (cách xây dựng bài toán). DP và chia để trị. (4 ngày)
+	a. Mục tiêu: Như trên.
+	b. Thời hạn: 23 / 11 / 2020.
+	c. Tổng hợp thông tin: 
+	- Các khu vực bài cần tổng hợp: LAH, Nam Tiên, Bài thầy Đông, bài các anh, các bài dp/ chia để trị trên codeforce đã làm.
+	- Trong thời gian này, ở trên lớp vẫn phải luyện não và tay song song
+	- Như vậy, thời gian thực hiện chỉ có ở nhà. Cụ thể là làm cái gì? 
+	- Trước hết, đối chiếu vói lập luận về nhóm và góc nhìn. 
+	- Sau đó, đối chiếu với tư duy kiểm soát tham số. (dp)
+	- Đối chiếu vois tu duy tránh trùng lặp, tránh nghĩ lại. (dp)
+	- Đối chiếu với cấu trúc bài toán con: Cần tính cái này cần một số cái này.(dp)
+	- Đọc lại các bài, với mỗi bài kiểm tra sự hiện diện của tư duy đã nêu.
+	- Thử xem theo tư duy đó thì có nghĩ ra được bài hay ko?
+	- Tổng hợp vào 1 các tư duy.
+	- Cuối cùng, sử dụng tư duy mới tổng hợp được đi nghĩ các bài dp/ chia để trị.
+1.0.13: Luyện dp và các loại optimization (9 ngày) 
+1.0.14: Luyện seg tree (5 ngày)
+1.0.2: Đọc sơ qua các phần còn lại. (8 ngày)
+1.0.3: Luyện tập chuyên sâu vào các phần có thể sẽ gặp.
+
+		
