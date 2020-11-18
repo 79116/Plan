@@ -96,16 +96,19 @@ Con đường 1
 	b. Thời hạn: 23 / 11 / 2020.
 	c. Tổng hợp thông tin: 
 	- Các khu vực bài cần tổng hợp: LAH, Nam Tiên, Bài thầy Đông, bài các anh, các bài dp/ chia để trị trên codeforce đã làm.
-	- Trong thời gian này, ở trên lớp vẫn phải luyện não và tay song song
+	- Trong thời gian này, ở trên lớp vẫn phải luyện não và tay song song, thứ 7 vẫn phair upsolve.
 	- Như vậy, thời gian thực hiện chỉ có ở nhà. Cụ thể là làm cái gì? 
 	- Trước hết, đối chiếu vói lập luận về nhóm và góc nhìn. 
 	- Sau đó, đối chiếu với tư duy kiểm soát tham số. (dp)
-	- Đối chiếu vois tu duy tránh trùng lặp, tránh nghĩ lại. (dp)
+	- Đối chiếu với  tu duy tránh trùng lặp, tránh nghĩ lại. (dp)
 	- Đối chiếu với cấu trúc bài toán con: Cần tính cái này cần một số cái này.(dp)
 	- Đọc lại các bài, với mỗi bài kiểm tra sự hiện diện của tư duy đã nêu.
 	- Thử xem theo tư duy đó thì có nghĩ ra được bài hay ko?
 	- Tổng hợp vào 1 các tư duy.
 	- Cuối cùng, sử dụng tư duy mới tổng hợp được đi nghĩ các bài dp/ chia để trị.
+	d. Kế hoạch cụ thể: 
+	Như tuần trước, thay code các thuật toán bằng tổng hợp tư duy.
+	- Chi tiết thực hiện: nghĩ sâu trước, sau đó mới ghi lại để tránh gián đoạn dòng tu duy.
 1.0.13: Luyện dp và các loại optimization (9 ngày) 
 1.0.14: Luyện seg tree (5 ngày)
 1.0.2: Đọc sơ qua các phần còn lại. (8 ngày)
