@@ -1,0 +1,48 @@
+1. Nham tien bien (n thanh m, i thanh j). Giai phap de xuat: Dat ten bien theo muc dich: vi du bang n * m thi thay vi dat n m, co the dat la R C 
+
+Nam Tien 05: 
+FRACTION: 
+1. Tran so.
+AIRLINES: 
+1. (A and (B or C)) thi viet thanh (A and B or C)
+2. copy paste quen sua 0 thanh 1, chi chu y den sua a thanh b
+3. Di tu u, v len lca (u, v), node nao thoa man dieu kien thi nhet vao dap an nhung quen mat la lca(u, v co the bi nhet vao den hai lan (di tu u va di tu v)
+4. Loi logic: Dang le phai di tu lca u, v thi lai di len tan goc.
+POINTS: Tim so diem nguyen thuoc it nhat mot doan thang.
+1. Thay vi duyet qua tung x nguyen xem y tuong ung co nguyen hay ko, ta co the tranh su dung double bang nhan xet sau: Neu hai dau mut cua dt la (x1, y1) va (x2, y2) 
+thi cac diem nguyen nam tren doan thang co dang (x1 + kd, y1 + kd) trong do d la gcd(x2 - x1, y2 - y1). Cach lam nay tuong ung voi giai phuong trinh diophantine nhung
+de bai da cho san hai nghiem.
+
+Nam Tien 06: 
+WINTER:
+1. Gioi han lon(1e6) nhung quen fastio
+
+Nam Tien 11: 
+COINS: in ra nhieu dap an, phai endl nhung lai quen 
+
+Quang Ninh 1:
+CAMP: 
+
+Quang Ninh 2:
+GRAPH: 
+1. Loi logic, Adj list bbi thay doi nhung so luong dinh ke van giu nguyen. Viec bo han mot dinh di de kiem tra khong tuong duong vi con dk nay.
+
+Quang Ninh 4: 
+MARKET: 
+1. Khong fastio 
+2. Doc de khong ky, quen mat th goc tren phai co toa do bang 0 -> rte prefix sum
+
+Quang Ninh 5: 
+WORD: 
+1. Dang le nen nhan thay rang chi co nhung dinh la lca cua it nhat 2 thang moi la dinh quan trong
+
+TSN 4: 
+Snowfall: 
+1. Chat nhi phan bound canh de do thi lien thong, quen th do thi lien thong ngay tu dau.
+
+Su Pham 4: 
+FILL:
+1. Chat nhi phan so thuc sai, nham dau >= thanh > 
+BRACKETS: 
+2. Sai thuat, Code cung sai luon.
+CITIES: Chua ro sai o dau.
